@@ -1,0 +1,21 @@
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\CFW8.Properties.Resources.resources
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\ASCOM.CFW8.SetupDialogForm.resources
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\bin\Debug\CFW8.dll
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\bin\Debug\CFW8.pdb
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\CFW8.dll
+C:\Users\Fabien\AppData\Local\Temporary Projects\CFW8\obj\Debug\CFW8.pdb
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\bin\Debug\CFW8.dll
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\bin\Debug\CFW8.pdb
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\bin\Debug\CFW8.tlb
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\CFW8.Properties.Resources.resources
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\ASCOM.CFW8.SetupDialogForm.resources
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\CFW8.dll
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\CFW8.pdb
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\CFW8.csprojResolveAssemblyReference.cache
+C:\Users\Fabien\documents\visual studio 2010\Projects\CFW8\CFW8\obj\Debug\CFW8.csproj.GenerateResource.Cache
